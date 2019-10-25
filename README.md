@@ -1,9 +1,9 @@
-# LP-search
+# ЛП-поиск
 
-1. Searching for function's minimum w/ cyclic coordinate-wise descent
+1. Поиск минимума функции с помощью циклического координатного спуска
 
-2. Searching for function's minimum w/ LPtau search
+2. Поиск минимума функции с помощью ЛПтау-поиска
 
-cyclic.py - cyclic coordinate-wise descent
-LPtau.py - LPtau search
-functions.py - associated functions for parabolic interpolation, Pareto optimization, and calculating 2D LP-points
+cyclic.py - циклический покоординатный спуск
+LPtau.py - ЛПтау-поиск
+functions.py - функции для параболической интерполяции, оптимизации по Парето и вычисления двухмерных ЛП-точек
